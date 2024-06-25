@@ -2,6 +2,7 @@
   td {
     text-align: center;
   }
-  p.ex {
+  h4.ex {
     text-decoration: overline underline;
+    color: red
   }
