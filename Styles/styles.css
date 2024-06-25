@@ -2,3 +2,6 @@
   td {
     text-align: center;
   }
+  p.ex {
+    text-decoration: overline underline;
+  }
